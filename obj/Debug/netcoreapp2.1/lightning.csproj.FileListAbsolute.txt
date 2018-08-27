@@ -1,0 +1,11 @@
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\bin\Debug\netcoreapp2.1\lightning.deps.json
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\bin\Debug\netcoreapp2.1\lightning.runtimeconfig.json
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\bin\Debug\netcoreapp2.1\lightning.runtimeconfig.dev.json
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\bin\Debug\netcoreapp2.1\lightning.dll
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\bin\Debug\netcoreapp2.1\lightning.pdb
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\obj\Debug\netcoreapp2.1\lightning.csprojAssemblyReference.cache
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\obj\Debug\netcoreapp2.1\lightning.csproj.CoreCompileInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\obj\Debug\netcoreapp2.1\lightning.AssemblyInfoInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\obj\Debug\netcoreapp2.1\lightning.AssemblyInfo.cs
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\obj\Debug\netcoreapp2.1\lightning.dll
+C:\Users\Your Butt\workspace\csharp\exercises\lightning\obj\Debug\netcoreapp2.1\lightning.pdb
